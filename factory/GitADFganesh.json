@@ -1,0 +1,9 @@
+{
+	"name": "GitADFganesh",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "74bb97e9-2e3a-45e7-b0bb-c54ba20c05b4",
+		"tenantId": "faaffd42-9eb5-4b0d-8b21-ceeed12e5709"
+	}
+}
